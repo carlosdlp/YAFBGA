@@ -26,4 +26,4 @@ The score is calculated this way:
 
 ------------
 To do list:
-1.  Add feature tu save current state.
+1.  Add feature tu save current state and load from saved file.
