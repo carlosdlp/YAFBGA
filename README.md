@@ -8,6 +8,8 @@ Once you run main.py you will see the window popup and it will automatically sta
 Each time all birds die it will take the best bird of that generation and mutate it to generate 500 new birds with slightly different weights and biases, also it will keep that bird so you can see its performance on the new generation (The red bird) 
 
 
+![](images/Capture.PNG)
+      
 
 At the bottom you can see some useful info like the FPS, Generation #, how many birds are still alive, overall high score, score of current gen, and speed (It isn't actually speed it just locks the FPS).
 
